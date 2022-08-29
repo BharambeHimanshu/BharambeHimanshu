@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubharambe2004&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubharambe2004" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@himanshurb34" target="blank"><img src="https://img.shields.io/twitter/follow/@Himanshu__200?logo=twitter&style=for-the-badge" alt="@himanshurb34" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@Himanshu__200" target="blank"><img src="https://img.shields.io/twitter/follow/@Himanshu__200?logo=twitter&style=for-the-badge" alt="@Himanshu__200" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science Using Python**
 
